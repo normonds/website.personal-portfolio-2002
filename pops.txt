@@ -1,0 +1,1 @@
+pelew=640&peleh=300&trih=400&triw=400
